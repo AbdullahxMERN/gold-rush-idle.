@@ -73,7 +73,7 @@ All UI updates happen instantly via Redux store.
 🌐 Live Demo
 
 🚀 Play the demo here:
-👉 AbdullahxMERN/gold-rush-idle
+👉 https://gold-rush-idle.vercel.app/
 
 📸 UI Overview
 
